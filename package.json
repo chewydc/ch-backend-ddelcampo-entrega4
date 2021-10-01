@@ -1,0 +1,15 @@
+{
+  "name": "apirestful_ddelcampo",
+  "version": "1.0.0",
+  "description": "Server API RESTFull con CRUD de productos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/server.js"
+  },
+  "author": "Damian del Campo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
